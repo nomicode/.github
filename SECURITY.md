@@ -8,14 +8,10 @@ If you prefer to make a confidential disclosure, please use the blank issue to m
 
 We take all security vulnerabilities seriously and will address them promptly.
 
-<!--
 ## Supported Versions
 
-We release patches for security vulnerabilities in the following versions:
-
-- Latest stable release
--->
+If a security vulnerability is reported or discovered, we will endeavor to publish fixes as patches to both the current release series and its immediate predecessor. For example, if the current release is 3.3.3 and the predecessor is 3.2.3, we would release versions 3.3.4 and 3.2.4.
 
 ## Security Updates
 
-We will notify users of security updates through our project's communication channels.
+We will notify users of security updates through our standard project communication channels.
