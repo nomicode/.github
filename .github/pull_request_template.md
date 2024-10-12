@@ -1,17 +1,25 @@
 # Pull Request Template
 
+<!--
+Please ensure that, prior to merging:
+
+- Multiple commits (including any fixups) are consolidated into a single commit to maintain a clean history.
+- The commit that will be merged adheres to the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) standard.
+- The PR title matches the first line of the commit message.
+- The PR is labeled with the corresponding commit type (e.g., `fix`, `feat`, etc.).
+-->
+
 ## Description
 
+<!--
 Please include a summary of the changes and the related issue.
-
-## Type of Change
-
-- [ ] Bug fix
-- [ ] New feature
-- [ ] Breaking change
-- [ ] Documentation update
+-->
 
 ## Checklist
+
+<!--
+Remove items that do not apply, or use ~strike-through~ syntax to indicate that an item has been purposefully skipped.
+-->
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
@@ -23,4 +31,6 @@ Please include a summary of the changes and the related issue.
 
 ## Additional Information
 
-Add any other information or screenshots that will help understand this pull request.
+<!--
+Include any information, context, logs, screenshots, etc., that may help people understand this pull request. Otherwise, specify "None."
+-->
