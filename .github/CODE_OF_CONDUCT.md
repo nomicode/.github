@@ -1,5 +1,8 @@
 # Code of Conduct
 
+> [!IMPORTANT]
+> This document is a work in progress. Please open a [blank issue](../issues/new) if you would like to suggest improvements.
+
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.

@@ -2,6 +2,9 @@
 
 This guide provides instructions for setting up your development environment to contribute to the project.
 
+> [!IMPORTANT]
+> This document is a work in progress. Please open a [blank issue](../issues/new) if you would like to suggest improvements.
+
 ## System Prerequisites
 
 Before you begin, ensure you have the following tools installed on your system:

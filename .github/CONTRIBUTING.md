@@ -2,6 +2,9 @@
 
 Thank you for considering contributing to our project! Here are some guidelines to help you get started:
 
+> [!IMPORTANT]
+> This document is a work in progress. Please open a [blank issue](../issues/new) if you would like to suggest improvements.
+
 ## How to Contribute
 
 1. Fork the repository.
