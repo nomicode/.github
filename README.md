@@ -1,4 +1,4 @@
-# `nomicode/.github` &mdash; My default community health files
+# My default community health files
 
 This repository contains default [community health files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) and other resources to help guide contributions and support.
 
