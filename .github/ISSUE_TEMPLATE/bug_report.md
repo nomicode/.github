@@ -10,7 +10,7 @@ assignees: ''
 **Description**
 
 <!--
-Provide a clear and concise description of what the bug is.
+Please start with an overview describing the bug. Include any details that would help others understand why this is important and how urgently it needs attention.
 -->
 
 **Steps to reproduce**
